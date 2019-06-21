@@ -11,3 +11,6 @@ You need the following items installed on your system to get started.
 Following ID's for students and teachers have been pre-defined. You can use these to check the working of the application. A new version will include sign up functionality as well.
 * Student ID = "jawwad" , Student Password = "1"
 * Instructor ID = "shamyl" , Instructor Password = "1"
+
+## Running The Application
+Once you have all completed the checklist for the pre-requisites, you need to run the QuizApp.java file from your IDE. Once agai, you need to have a running SQL connection in your IDE.

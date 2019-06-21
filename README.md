@@ -14,3 +14,8 @@ Following ID's for students and teachers have been pre-defined. You can use thes
 
 ## Running The Application
 Once you have all completed the checklist for the pre-requisites, you need to run the QuizApp.java file from your IDE. Once agai, you need to have a running SQL connection in your IDE.
+
+## Profiling Using NetBeans
+The memory usage that was observed after creating 10 quizzes is shown in the screenshot below:
+
+![](https://github.com/jawad3838/QuizBuzz-Application/blob/master/screenshots/profiling.png)
